@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T19:31:32.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="46EVfxB5WZdKrUTTsgzT" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T19:37:12.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="BUx85XL-gdeSqc4KiRKA" version="24.4.10" type="github">
   <diagram name="Página-1" id="2OZ_F0GOnzpVDjoOHze3">
     <mxGraphModel dx="1619" dy="1281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="komAiraVEAq9OXNVHG3H-4" value="PROVEEDORES" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="115" y="334" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="komAiraVEAq9OXNVHG3H-5" value="PERSONAL ADMINISTRATIVO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="komAiraVEAq9OXNVHG3H-5" value="GERENTE" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="977" y="-33" width="156" height="40" as="geometry" />
         </mxCell>
         <mxCell id="komAiraVEAq9OXNVHG3H-6" value="SAT" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="komAiraVEAq9OXNVHG3H-10" value="Datos de compra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="231" y="338.5" width="140" height="31" as="geometry" />
+          <mxGeometry x="256" y="300" width="140" height="31" as="geometry" />
         </mxCell>
         <mxCell id="komAiraVEAq9OXNVHG3H-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -56,12 +56,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="komAiraVEAq9OXNVHG3H-17" value="Supervisión" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="397" y="-38" width="102" height="31" as="geometry" />
+          <mxGeometry x="356" y="-68" width="102" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="komAiraVEAq9OXNVHG3H-22" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="komAiraVEAq9OXNVHG3H-22" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.201;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="278" y="-5" as="sourcePoint" />
-            <mxPoint x="664" y="78" as="targetPoint" />
+            <mxPoint x="595.0439999999999" y="78" as="sourcePoint" />
+            <mxPoint x="239" y="-7" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="595" y="-38" />
+              <mxPoint x="239" y="-38" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="komAiraVEAq9OXNVHG3H-24" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="komAiraVEAq9OXNVHG3H-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="460" as="sourcePoint" />
+            <mxPoint x="650" y="426" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="186" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="komAiraVEAq9OXNVHG3H-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="komAiraVEAq9OXNVHG3H-24">
+          <mxGeometry x="-0.4302" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
