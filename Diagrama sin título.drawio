@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T19:41:33.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ztO7ITmREPeZKc3TtEd0" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T19:42:28.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ZowfivPqhuLwWJdwvU44" version="24.4.10" type="github">
   <diagram name="Página-1" id="2OZ_F0GOnzpVDjoOHze3">
     <mxGraphModel dx="1619" dy="1281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,15 @@
         </mxCell>
         <mxCell id="komAiraVEAq9OXNVHG3H-36" value="Información del Inventario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="844.5" y="47.5" width="202" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="komAiraVEAq9OXNVHG3H-37" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="komAiraVEAq9OXNVHG3H-5" target="komAiraVEAq9OXNVHG3H-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="807" y="-18" as="sourcePoint" />
+            <mxPoint x="857" y="-68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="komAiraVEAq9OXNVHG3H-38" value="Confirmación" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="-45.5" width="112" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
